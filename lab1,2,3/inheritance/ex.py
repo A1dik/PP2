@@ -1,6 +1,4 @@
-#1
-class Student(Person):
-#2
+
 class Person:
   def __init__(self, fname):
     self.firstname = fname
